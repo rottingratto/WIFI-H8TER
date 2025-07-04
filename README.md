@@ -24,10 +24,10 @@
 
 
 ```
-• git clone https://github.com/rottingratto/WIFI-H8TER.git
-• cd Wifi-Hack
-• sudo bash requirements.sh
-• python3 wifi-hack.py
+ git clone https://github.com/rottingratto/WIFI-H8TER.git
+ cd Wifi-Hack
+ sudo bash requirements.sh
+ python3 wifi-hack.py
 
 ```
 
