@@ -1,3 +1,29 @@
+![Screenshot from 2025-07-03 21-18-48](https://github.com/user-attachments/assets/af89649f-0983-4874-9e66-94c0d845f750)
+
+made with python3 
+
+HOW TO INSTALL 
+
+1: RUN THE git clone https://github.com/rottingratto/WIFI-H8TER.git AS ADMIN
+
+2: RUN THE requirements.sh FILE IN TERMINAL IN THE GIT CLONE DIRECTORY (AS ADMIN) 
+
+3: RUN wifi-hack.py AS ADMIN IN THE TERMINAL IN GIT CLONE DIRECTORY
+
+███████╗███╗   ██╗     ██╗ ██████╗ ██╗   ██╗       ██╗ 
+██╔════╝████╗  ██║     ██║██╔═══██╗╚██╗ ██╔╝    ██╗╚██╗
+█████╗  ██╔██╗ ██║     ██║██║   ██║ ╚████╔╝     ╚═╝ ██║
+██╔══╝  ██║╚██╗██║██   ██║██║   ██║  ╚██╔╝      ██╗ ██║
+███████╗██║ ╚████║╚█████╔╝╚██████╔╝   ██║       ╚═╝██╔╝
+╚══════╝╚═╝  ╚═══╝ ╚════╝  ╚═════╝    ╚═╝          ╚═╝ 
+
+
+
+
+
+
+
+
 
 ![Screenshot from 2025-07-03 17-37-16](https://github.com/user-attachments/assets/6bc502b6-95e3-4aa7-8447-80c18781e276)
 
