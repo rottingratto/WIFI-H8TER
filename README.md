@@ -60,6 +60,16 @@ HOW TO INSTALL
 
 ```
 
+                               FOR PARROT OS  
+```
+ git clone https://github.com/rottingratto/WIFI-H8TER.git
+ cd Wifi-Hack
+ sudo bash requirements.sh
+ python3 wifi-hack parrot os.py
+
+```
+                               
+
 #######################################################################################
 
                I AM NOT RESPONSIBLE FOR USE OF THIS TOOL
