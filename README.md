@@ -14,6 +14,7 @@ HOW TO INSTALL
 
 
 
+[notice] option [3] lasts for 20 seconds then will return to main page 
 
 
 
