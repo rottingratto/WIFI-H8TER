@@ -1,5 +1,9 @@
 ![Screenshot from 2025-07-03 21-18-48](https://github.com/user-attachments/assets/af89649f-0983-4874-9e66-94c0d845f750)
 
+
+THIS TOOL DOES REQUIRE BASIC UNDERSTANDING OF TERMINAL TOOLS AND LABLEING 
+
+
 made with python3 
 
 HOW TO INSTALL 
