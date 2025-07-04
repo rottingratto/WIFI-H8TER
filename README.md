@@ -1,23 +1,25 @@
 
+![Screenshot from 2025-07-03 17-37-16](https://github.com/user-attachments/assets/6bc502b6-95e3-4aa7-8447-80c18781e276)
+
+
 
 ## Tested On:
 
-### [✔] Kali Linux (Tool version 2.1)
+### [✔] Kali Linux 
 
 
 
 
-### [✔] Parrot OS (Tool version 2.0)
+### [✔] Parrot OS 
 
 
 
 
-### [✔] Linux Mint (Tool version 1.0)
+### [✔] Linux Mint 
 
 
 
-### [✔] Ubuntu (Tool version 1.0)
-
+### [✔] Ubuntu 
 
 
 
